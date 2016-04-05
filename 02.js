@@ -6,5 +6,5 @@ export function fakePromise (str) {
 }
 
 export function fakeMap (arr) {
-  return map(arr, item => item + ' is stupid')
+  return map(arr, (item) => item + ' is stupid')
 }
