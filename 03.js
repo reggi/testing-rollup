@@ -1,5 +1,5 @@
 import Promise from 'bluebird'
 
-export default function stuidReference (str) {
+export default function stupidReference (str) {
   return Promise.resolve(str)
 }
